@@ -7,5 +7,5 @@
 fork this repository.
 git clone {fork}
 cd {fork}
-mkdir username
+mkdir chapter(번호)
 ```
