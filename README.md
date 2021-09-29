@@ -7,5 +7,5 @@
 fork this repository.
 git clone {fork}
 cd {fork}
-mkdir chapter(번호)
+mkdir chapter(번호)-(닉네임)
 ```
